@@ -1,0 +1,14 @@
+{
+    "link": "microsoft_office Link",
+    "listing": {
+        "title": "Microsoft Office"
+    },
+    "report": {
+        "title": "Microsoft Office Report"
+    },
+    "widget": {
+        "title": "Microsoft Office Widget"
+    },
+    "vl_license": "Retail/Volume License",
+    "365_license": "Office 365 License"
+}
